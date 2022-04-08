@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FontManager</string>
+    <string name="base_font">X-Regular.ttf</string>
+    <string name="base_font_bold">X-Bold.ttf</string>
+    <string name="base_font_Medium">X-Medium.ttf</string>
+
 </resources>
